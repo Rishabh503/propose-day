@@ -6,11 +6,18 @@ const No1 = () => {
     <>
            <section>
         <div className='min-h-screen w-full flex flex-col  items-center justify-center bg-red-50'>
-            <div className='p-10 bg-yellow-50 w-auto h-auto'>
+            <div className='p-10 text-center bg-yellow-50  flex flex-col items-center justify-center w-auto h-auto'>
                 <div>
+                <h1 className='text-2xl'>
+                    ehhhhhh what are u sayinggggg 😭😭😭
+                </h1>
+                <p className='text-center text-3xl'>
+                    u dont love me
+                </p>
+                    
                 <div class="tenor-gif-embed" data-postid="22050818" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/mochi-gif-22050818">Mochi Sticker</a>from <a href="https://tenor.com/search/mochi-stickers">Mochi Stickers</a>
                 </div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-                    <h1>
+                <h1>
                         WILL  YOU BE MY VALENTINE 🌹
                     </h1>
                 </div>
